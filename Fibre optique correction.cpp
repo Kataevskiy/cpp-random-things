@@ -53,7 +53,7 @@ int main()
 	int nb_pc;
 	cin >> nb_pc;
 	
-	// faire les lins entre les PC
+	// faire les liens entre les PC
 	for (int connection = 0; connection < (nb_pc - 1); connection++)
 	{
 		int pc1, pc2;
